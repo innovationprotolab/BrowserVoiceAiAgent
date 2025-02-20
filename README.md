@@ -3,6 +3,10 @@
 BrowserVoiceAiAgent is a lightweight JavaScript-based AI agent that integrates with your browser through a bookmarklet. With just a click of a button, you can activate voice recognition and perform various actions in your browser using voice commands. This project is designed to make browsing more intuitive and hands-free by leveraging the power of voice recognition and AI.
 # Features
 
+Browser Voice Agent AI Demo
+
+![Browser Voice Agent Demo](AIAgent.PNG)
+
     Voice Recognition: Activate voice recognition with a single click.
 
     AI-Powered Actions: Perform browser actions based on voice commands (e.g., navigation, searching, opening tabs, etc.).
